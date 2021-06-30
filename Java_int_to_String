@@ -18,7 +18,7 @@ public class Solution {
         
         String s= Integer.toString(a); //convert int to string
         
-        if (s instanceof java.lang.String){  //check if a variable if String
+        if (s instanceof java.lang.String){  //check if a variable is String
            System.out.println("Good job");
        }
         
