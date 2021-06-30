@@ -1,2 +1,2 @@
-# Hackerrank_Java_Prep
-Heckerman Java Practice questions solutions solved by me
+# HackerRank_Java_Prep
+HeckerRank Java Practice questions solutions solved by me
